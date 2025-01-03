@@ -2050,3 +2050,4 @@
 - [Adit Khandelwal](https://github.com/AditKhandelwal)
 - [Evan Perry](https://github.com/EvanPrograms)
 - [crun geek](https://github.com/geekk8)
+- [Sheraz Ahmad](https://github.com/sheraz14)
